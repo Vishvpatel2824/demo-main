@@ -19,6 +19,7 @@ function App() {
   return (
     <div>
         <BrowserRouter>
+        <h1>hello welcom to my app.....</h1>
         <Navbar/>
           <Routes>
             <Route path='/' element={<Home user={user}/>}/>

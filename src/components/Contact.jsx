@@ -23,7 +23,7 @@ function Contact() {
       <button className="btn btn-danger" onClick={() => {setMyColor('red')}}>Click</button>
       <button className="btn btn-primary" onClick={() => {setMyColor('blue')}}>Click</button>
       <button className="btn btn-warning" onClick={() => {setMyColor('yellow')}}>Click</button>
-      <button className="btn btn-info" onClick={() => {setMyColor('aqua')}}>Click</button>
+      <button className="btn btn-info" onClick={() => {setMyColor('orange')}}>Click</button>
     </div>
   )
 }
